@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 02058bb2-974f-444c-9986-ab0686475bbb
-  WEBAPP-NAME: lamar-webapp
+  WEBAPP-NAME: lamar
 
 
 jobs:
